@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tutorialapi\\tutorialapi\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|solutionrelative:tutorialapi\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tutorialapi\\tutorialapi\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|solutionrelative:tutorialapi\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tutorialapi\\tutorialapi\\nama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|solutionrelative:tutorialapi\\nama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tutorialapi\\tutorialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DF4C82B-7141-4DA8-88E4-EAE5770D68E6}|TutorialAPI\\TutorialAPI.csproj|solutionrelative:tutorialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "TutorialAPI\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "TutorialAPI\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:59:09.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "TutorialAPI\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Mahasiswa.cs",
+              "RelativeToolTip": "TutorialAPI\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:58:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nama.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Nama.cs",
+              "RelativeDocumentMoniker": "TutorialAPI\\Nama.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\Nama.cs*",
+              "RelativeToolTip": "TutorialAPI\\Nama.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:57:28.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TutorialAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\TutorialAPI\\TutorialAPI\\appsettings.json",
+              "RelativeToolTip": "TutorialAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T22:56:40.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
